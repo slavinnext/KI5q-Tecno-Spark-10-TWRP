@@ -9,7 +9,10 @@
 2. Дополнение и работа с разделами в recovery.fstab.
 3. Предусмотреть возможность автоматического перебилдинга super.img, если ставить тяжёлую system.img.
 4. Возможность расшифровки Data, с использованием пароля юзера как в OrangeFox.
------- 1.0 Планы ------
+
+
+
+
 
 ### ENG
 # TWRP Device Tree for Tecno Spark 10 (KI5q). This tree was used to build the current image release.
@@ -22,4 +25,3 @@
 2. Fstab Optimization: Expanding and refining partition management in recovery.fstab.
 3. Super Partition Logic: Implement automatic super.img rebuilding to accommodate oversized system.img files.
 4. Data Decryption: Add support for Data decryption using the user's password (similar to OrangeFox Recovery functionality).
------- 1.0 Roadmap ------
